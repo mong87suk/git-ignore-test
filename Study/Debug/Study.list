@@ -114,9 +114,9 @@ int main(void)
  800015e:	4b13      	ldr	r3, [pc, #76]	; (80001ac <main+0x60>)
  8000160:	2205      	movs	r2, #5
  8000162:	701a      	strb	r2, [r3, #0]
-  test[1] = 4;
+  test[1] = 2;
  8000164:	4b11      	ldr	r3, [pc, #68]	; (80001ac <main+0x60>)
- 8000166:	2204      	movs	r2, #4
+ 8000166:	2202      	movs	r2, #2
  8000168:	705a      	strb	r2, [r3, #1]
 
   int puls = 10;

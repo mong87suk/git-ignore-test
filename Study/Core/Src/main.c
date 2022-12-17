@@ -90,7 +90,7 @@ int main(void)
 
   /* USER CODE END 2 */
   test[0] = 5;
-  test[1] = 4;
+  test[1] = 2;
 
   int puls = 10;
 
